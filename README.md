@@ -1,7 +1,7 @@
 # Firebase workshop
 > Example application made with Next.js + Firebase SDK
 
-<iframe src="https://slides.com/santospatrick/firebase/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![slides.com embed code screenshot](docs/embed.png)](https://slides.com/santospatrick/firebase)
 
 ## Setup
 ```bash
